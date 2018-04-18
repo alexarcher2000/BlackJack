@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Face
+comment1.params=st\ r
+comment1.target=Face(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FaceCard\r\n
+numComments=2
